@@ -1,7 +1,7 @@
 # It-s-that-simple
 App Privacy Policy "It's that simple"
       
-# Privacy Policy
+**Privacy Policy**
 
 Rising 24 built the It's that simple app as a Free app. This SERVICE is provided by Rising 24 at no cost and is intended for use as is.
 
